@@ -1,0 +1,97 @@
+	 #slideshow{
+		padding-top: 300px;
+		text-align: center;
+	 }
+	 
+	 .div1{
+		width: 100%;
+		text-align: left;
+		border: 2px solid gray;
+	 }
+	 
+	 #link1{
+		margin: 10px;
+		margin-right: 145px;
+		 
+	 }
+	 
+	 .div_contact1{
+		text-align: center;
+		border: 2px solid gray;
+        margin-top: 10px;
+	 }
+	 
+	 .title{
+		background-color: gray;
+		color: white;
+	 }
+	 
+	 #panel, #flip {
+		padding: 5px;
+		text-align: center;
+		background-color: darkgray;
+		border: solid 2px gray;
+		color: white;
+	}
+
+	#panel {
+		padding: 100px;
+		display: none;
+	}
+
+	html, body{
+		padding: 0;
+		margin: 0;
+		width: 100%;
+		height: 100%;
+	}
+	.content{
+		height: 90.5%;
+		padding-left: 7px;
+		padding-right: 15px;
+		width: 100%;
+        text-align: left;
+		position: relative;
+	}
+
+	.div2{
+		text-align: center;
+		border: solid 2px gray;
+	}
+	
+	.column {
+		float: left;
+		padding: 10px;
+		height: 300px;
+	}
+
+	.left, .right {
+		padding-top: 50px;
+		width: 25%;
+	}
+
+	.middle {
+	  width: 50%;
+	}
+
+	.row:after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}
+	
+	.logo{
+        width: auto;
+		text-align: center;
+	}
+    .additional_footer_options {
+        padding-top: 2lm;
+}
+
+#flip {
+    margin-top: 10px;
+}
+	
+	
+	
+	
